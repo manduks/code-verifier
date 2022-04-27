@@ -1,0 +1,22 @@
+{
+  "name": "react-code-verifier-example",
+  "displayName": "ReactCodeVerifier Example",
+  "expo": {
+    "name": "react-code-verifier-example",
+    "slug": "react-code-verifier-example",
+    "description": "Example app for react-code-verifier",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
