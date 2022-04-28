@@ -1,6 +1,6 @@
 {
   "name": "react-code-verifier",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "multiplatform react code verifier",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
