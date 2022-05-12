@@ -1,22 +1,22 @@
-import { StyleSheet } from "react-native";
+import { StyleSheet } from 'react-native';
 
 const styles = StyleSheet.create({
-  input:{
+  input: {
     width: 80,
     height: 80,
     backgroundColor: '#F6F6FB',
-    alignItems: "center",
-    justifyContent: "center",
-    overflow: "visible",
+    alignItems: 'center',
+    justifyContent: 'center',
+    overflow: 'visible',
     marginHorizontal: 5,
     textAlign: 'center',
-    fontSize: 30
+    fontSize: 30,
   },
-  message:{
+  message: {
     textAlign: 'center',
     marginLeft: 16,
-    marginRight: 16
-  }
+    marginRight: 16,
+  },
 });
 
 export default styles;

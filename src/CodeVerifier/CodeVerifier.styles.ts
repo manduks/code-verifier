@@ -1,4 +1,4 @@
-import { StyleSheet } from "react-native";
+import { StyleSheet } from 'react-native';
 
 const styles = StyleSheet.create({
   container: {
@@ -6,18 +6,18 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  content:{
-    flexDirection: "row",
-    margin: 16
+  content: {
+    flexDirection: 'row',
+    margin: 16,
   },
-  contentMessage:{
-    marginVertical: 32
+  contentMessage: {
+    marginVertical: 32,
   },
-  message:{
+  message: {
     textAlign: 'center',
     marginLeft: 16,
-    marginRight: 16
-  }
+    marginRight: 16,
+  },
 });
 
 export default styles;
